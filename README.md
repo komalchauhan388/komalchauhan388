@@ -50,7 +50,8 @@
 # 🚀 Featured Projects
 1. 📊 Skincare Brand Analytics Dashboard
 
-🔗 Project Link: skincare-performance-dashboard
+🔗 Project Link:skincare-performance-dashboard
+
 
 Developed an interactive Excel dashboard to analyze skincare brand performance, customer purchasing behavior, and product trends.  
 The dashboard provides insights into ratings, monthly purchases, skin type distribution, and age-group skincare concerns using dynamic charts and slicers.
