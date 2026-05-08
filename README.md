@@ -48,9 +48,10 @@
 ---
 
 # 🚀 Featured Projects
-
-## 📊 Power BI Sales Dashboard
-Built an interactive Power BI dashboard to analyze sales performance, KPIs, revenue trends, and customer insights.
+1. 📊 Skincare Brand Analytics Dashboard
+🔗 Project Link: skincare-performance-dashboard
+Developed an interactive Excel dashboard to analyze skincare brand performance, customer purchasing behavior, and product trends.  
+The dashboard provides insights into ratings, monthly purchases, skin type distribution, and age-group skincare concerns using dynamic charts and slicers.
 
 ## 📈 Excel Dashboard Project
 Created dynamic Excel dashboards using Pivot Tables, Charts, Conditional Formatting, and Slicers for business reporting.
