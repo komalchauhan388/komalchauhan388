@@ -1,16 +1,114 @@
-## Hi there 👋
+# Hi 👋, I'm Komal Chauhan
 
-<!--
-**komalchauhan388/komalchauhan388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data Analyst | Python Enthusiast | Dashboard Developer
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst+from+Sri+Ganganagar+📍;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+into+Business+Insights+📈;Always+Learning+and+Building+🚀" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💫 About Me
+
+🎓 B.Com Graduate passionate about Data Analytics and Business Intelligence  
+📍 Based in Sri Ganganagar, Rajasthan, India  
+📊 Skilled in Dashboard Development, Data Visualization & Data Cleaning  
+🐍 Working with Python, SQL, Tkinter, Power BI & Excel Dashboards  
+🚀 Focused on building real-world projects and improving analytical skills  
+💡 Interested in solving business problems using data-driven insights  
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel_Dashboard-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180em"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 📊 Power BI Sales Dashboard
+Built an interactive Power BI dashboard to analyze sales performance, KPIs, revenue trends, and customer insights.
+
+## 📈 Excel Dashboard Project
+Created dynamic Excel dashboards using Pivot Tables, Charts, Conditional Formatting, and Slicers for business reporting.
+
+## 🐍 Python Data Analysis Project
+Performed data cleaning, analysis, and visualization using Python libraries like Pandas and NumPy.
+
+## 🖥️ Tkinter GUI Application
+Developed user-friendly desktop applications using Python Tkinter with interactive graphical interfaces.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+---
+
+# ✨ Quote
+
+> “Data is the new oil, but insights are the real fuel.”
+
+---
+
+<p align="center">
+  ⭐ <b>Thanks for visiting my profile!</b> ⭐
+</p>
