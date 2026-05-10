@@ -35,6 +35,13 @@
 
 </p>
 
+## 🛠️ Technologies & Tools
+
+- 👨‍💻 Programming Languages: Python, SQL  
+- 📚 Data Analysis & Visualization Libraries: NumPy, Pandas, Matplotlib, Seaborn  
+- 🗄️ Database: MySQL  
+- 📊 Business Intelligence & Analytics: Power BI, Advanced Excel  
+- 🖥️ GUI Development: Tkinter  
 ---
 
 
