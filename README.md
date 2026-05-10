@@ -18,8 +18,7 @@
 💡 Interested in solving business problems using data-driven insights  
 
 ---
-
-# 🛠️ Tech Stack
+# 🛠️ Technologies & Tools
 
 <p align="left">
 
@@ -27,21 +26,22 @@
 <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel_Dashboard-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </p>
-
-## 🛠️ Technologies & Tools
 
 - 👨‍💻 Programming Languages: Python, SQL  
 - 📚 Data Analysis & Visualization Libraries: NumPy, Pandas, Matplotlib, Seaborn  
 - 🗄️ Database: MySQL  
 - 📊 Business Intelligence & Analytics: Power BI, Advanced Excel  
 - 🖥️ GUI Development: Tkinter  
+
+
 ---
 
 
