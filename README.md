@@ -66,16 +66,6 @@ Developed user-friendly desktop applications using Python Tkinter with interacti
 
 ---
 
-
-
-# 👀 Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
----
-
 # ✨ Quote
 
 > “Data is the new oil, but insights are the real fuel.”
